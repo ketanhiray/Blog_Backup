@@ -13,7 +13,7 @@ tags: linux, devops, 90daysofdevops
 
 Simply put, a package manager is a tool that enables users to install, remove, upgrade, configure, and manage software packages on an operating system. The package manager can be a graphical application like a software centre or a command-line tool like apt-get or Pacman.
 
-### What is a Package?
+### What is a Package?📦
 
 A package is typically known as an application, but it can also be a GUI application, command line tool, or a software library needed by other software programs. Essentially, a package is an archive file that includes the binary executable, configuration file, and sometimes information about the dependencies.
 
@@ -30,7 +30,7 @@ There are many different package managers available for Linux. Some of the most 
 * Pacman is the default package manager for Arch Linux.
     
 
-## Tasks
+## Tasks📝
 
 ### **Install Docker:**
 
@@ -89,7 +89,7 @@ journalctl -u jenkin
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1720685094133/7ea61242-672c-4c7e-840b-e38337c5e285.png align="center")
 
-### Systemctl and Systemd
+### Systemctl and Systemd🛅
 
 Systemd is the init system and service manager for most Linux distributions. It is responsible for starting and stopping system services, such as the Docker daemon and the Jenkins service.
 
@@ -108,13 +108,13 @@ Systemctl is a command-line tool used to control and monitor the systemd system 
             * Check the status of the Docker service:
                 
                 ```powershell
-                   sudo systemctl status docker    
+                   sudo systemctl status docker
                 ```
                 
             * Start the Jenkins service:
                 
                 ```powershell
-                   sudo systemctl start jenkins 
+                   sudo systemctl start jenkins
                 ```
                 
             * Stop the Docker service:
@@ -127,7 +127,6 @@ Systemctl is a command-line tool used to control and monitor the systemd system 
                 
                 ```powershell
                    sudo systemctl enable jenkins
-                 
                 ```
                 
     * `service` Command
@@ -139,7 +138,7 @@ Systemctl is a command-line tool used to control and monitor the systemd system 
             * Check the status of the Docker service:
                 
                 ```powershell
-                   sudo service docker status    
+                   sudo service docker status
                 ```
                 
             * Start the Jenkins service:
