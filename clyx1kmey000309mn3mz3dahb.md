@@ -9,7 +9,7 @@ tags: github, git, devops, 90daysofdevops
 
 ---
 
-## Git Branching
+## Git Branching🌿
 
 Branches in Git allow you to work on new features, bug fixes, or experiments without impacting other parts of your repository. Each repository has a default branch and can have multiple other branches. You can merge branches using pull requests.
 
@@ -30,7 +30,7 @@ git checkout master
 git merge feature-branch
 ```
 
-## Git Revert and Reset
+## Git Revert and Reset🔄️
 
 Git reset and git revert are two commonly used commands that enable you to undo changes made in the code in previous commits. Both commands can be very useful in different scenarios.
 
@@ -55,7 +55,7 @@ git reset --mixed 3
 git reset --hard 3
 ```
 
-## Git Rebase and Merge
+## Git Rebase and Merge🔀
 
 **Rebase**: Integrate changes and rewrite commit history, <mark>Linear format</mark>
 
@@ -69,7 +69,7 @@ git rebase main
 git merge feature-branch
 ```
 
-## Task:
+## Task:📝
 
 **Create a Branch and Add a Feature:**
 
@@ -134,8 +134,8 @@ ubuntu@ip-172-31-45-42:~/day13/github$ git commit -am "Added feature4 in dev br 
     * Create 2 or more branches and take screenshots to show the branch structure.
         
     * ```powershell
-        ubuntu@ip-172-31-45-42:~/day13/github$ git branch qa
-        ubuntu@ip-172-31-45-42:~/day13/github$ git branch moc
+          ubuntu@ip-172-31-45-42:~/day13/github$ git branch qa
+          ubuntu@ip-172-31-45-42:~/day13/github$ git branch moc
         ```
         
 2. **Merge Changes into Master:**
@@ -148,6 +148,6 @@ ubuntu@ip-172-31-45-42:~/day13/github$ git commit -am "Added feature4 in dev br 
         ```
         
 
-### Conclusion
+### Conclusion🧐
 
 Mastering Git commands, and understanding branching, merging, reverting, resetting, and rebasing can significantly improve your development workflow.
