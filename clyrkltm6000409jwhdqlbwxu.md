@@ -1,6 +1,6 @@
 ---
 title: "Day 12: Essential Git & GitHub Skills for DevOps Engineers"
-seoTitle: "DevOps"
+seoTitle: "Git & GitHub Skills for DevOps Engineers"
 datePublished: Thu Jul 18 2024 17:54:02 GMT+0000 (Coordinated Universal Time)
 cuid: clyrkltm6000409jwhdqlbwxu
 slug: day-12-essential-git-github-skills-for-devops-engineers
