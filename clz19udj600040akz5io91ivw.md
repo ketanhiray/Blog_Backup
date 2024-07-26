@@ -4,7 +4,7 @@ seoTitle: "Docker in DevOps: Day 16 Insights"
 datePublished: Thu Jul 25 2024 12:50:27 GMT+0000 (Coordinated Universal Time)
 cuid: clz19udj600040akz5io91ivw
 slug: day-16-using-docker-for-devops-engineering
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721911611676/ff6b799d-6e1a-48aa-83e0-847d18f4729c.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721980266165/b29dfbfc-b921-49b8-99a8-4e433d398958.png
 tags: docker, devops, 90daysofdevops
 
 ---
