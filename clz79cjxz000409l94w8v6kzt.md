@@ -1,7 +1,7 @@
 ---
 title: "Docker Project Day 17: Todo-List Task 
 (Using Linux)"
-seoTitle: "Linux Docker Tutorial: Todo-List Task"
+seoTitle: "Linux Docker Blog: Todo-List Task"
 datePublished: Mon Jul 29 2024 17:23:13 GMT+0000 (Coordinated Universal Time)
 cuid: clz79cjxz000409l94w8v6kzt
 slug: docker-project-day-17-todo-list-task-using-linux
