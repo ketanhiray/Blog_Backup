@@ -10,7 +10,7 @@ tags: linux, docker, devops, 90daysofdevops
 
 ---
 
-# Dockerfile🐳
+# 🐳Docker
 
 Docker is a tool that simplifies running applications in containers, and self-contained packages are created using a Dockerfile.
 
