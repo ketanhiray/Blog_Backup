@@ -4,7 +4,7 @@ seoTitle: "DevOps,Git,GitHub"
 datePublished: Mon Jul 22 2024 13:47:51 GMT+0000 (Coordinated Universal Time)
 cuid: clyx1kmey000309mn3mz3dahb
 slug: day-13-devops-advanced-git-github-skills
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1721655764248/bb48019d-aa25-4dce-a5a1-1fb758fc587b.png
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1722418358795/ca255ddf-9e55-46a5-bbef-f5ff877a7589.png
 tags: github, git, devops, 90daysofdevops
 
 ---
