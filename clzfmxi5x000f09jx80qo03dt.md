@@ -20,7 +20,7 @@ tags: docker, 90daysofdevops
 
 ### 🔶Container Management
 
-* **docker run &lt;*options*\&gt; &lt;port&gt; &lt;image\_name&gt;:** Run a new container from a Docker image.
+* **docker run &lt;*options*&gt; &lt;port&gt; &lt;image\_name&gt;:** Run a new container from a Docker image.
     
 * **docker ps:** List running containers.
     
@@ -120,4 +120,4 @@ tags: docker, 90daysofdevops
 
 ## ✨Conclusion
 
-With this comprehensive cheat sheet, we're well-equipped to handle Docker and Docker Compose commands efficiently. this will help us to build, deploy, and manage containerized applications. Our expertise in Docker will surely benefit you and the DevOps community.
+With this comprehensive cheat sheet, we're well-equipped to efficiently handle Docker and Docker Compose commands. This will help us to build, deploy, and manage containerised applications.
