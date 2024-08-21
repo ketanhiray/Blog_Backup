@@ -1,9 +1,9 @@
 ---
-title: "Day 24 Jenkins CI/CD Project: To-Do List"
+title: "Day 24 & 25  Jenkins CI/CD Project: To-Do List"
 seoTitle: "Jenkins CI/CD: Day 24 To-Do List"
 datePublished: Wed Aug 21 2024 07:34:25 GMT+0000 (Coordinated Universal Time)
 cuid: cm03jfy04000109lhcuhyefu0
-slug: day-24-jenkins-cicd-project-to-do-list
+slug: day-24-25-jenkins-cicd-project-to-do-list
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1724225380826/3069ec2f-ed3e-4e21-93ca-9f2c4c58d7ae.png
 tags: github, webhooks, jenkins, ci-cd, 90daysofdevops
 
