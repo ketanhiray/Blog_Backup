@@ -6,7 +6,7 @@ datePublished: Fri Aug 30 2024 14:17:21 GMT+0000 (Coordinated Universal Time)
 cuid: cm0gsssus000009lfapd8a7gn
 slug: day-29-must-know-jenkins-interview-questions
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1725026534060/c5a4e4fe-f7ba-4ccc-bc7f-1082162d3d86.png
-tags: jenkins, 90daysofdevops, devops-interview-questions-and-answers
+tags: jenkins, 2articles1week, 90daysofdevops, devops-interview-questions-and-answers
 
 ---
 
