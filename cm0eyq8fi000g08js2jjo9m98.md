@@ -5,7 +5,7 @@ datePublished: Thu Aug 29 2024 07:27:47 GMT+0000 (Coordinated Universal Time)
 cuid: cm0eyq8fi000g08js2jjo9m98
 slug: day-28-tutorial-for-configuring-jenkins-agents
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1724916305219/2c9b5dca-8cc9-4af5-97a0-18b22a696a1e.png
-tags: docker, jenkins, 90daysofdevops
+tags: docker, jenkins, 2articles1week, 90daysofdevops
 
 ---
 
