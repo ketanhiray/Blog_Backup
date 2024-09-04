@@ -10,15 +10,15 @@ tags: kubernetes, 2articles1week, kubernetes-architecture, 90daysofdevops
 
 ---
 
-## **Kubernetes Overview**
+## **Kubernetes Overview**🔎
 
 With the widespread use of containers, Kubernetes is now the main tool for managing and organizing containerized applications. It is a key part of the DevOps world, helping with the deployment, scaling, and management of applications. Originally created at Google and released as open-source in 2014, Kubernetes is based on 15 years of Google's experience in handling containerized workloads, with major help from the open-source community. Its design is inspired by Google's internal system, Borg.
 
-# **What is Kubernetes?**
+# **What is Kubernetes?**🛞
 
 Kubernetes, or K8s, is an open-source platform that automates the deployment, scaling, and operation of application containers. The name K8s is a shorthand for Kubernetes, replacing the eight letters "ubernete" with the number 8. This platform makes it easier to manage containers in various environments, from development to production.
 
-## What are the benefits of using k8s?
+## What are the benefits of using k8s?✅
 
 1. **Scalability**: Kubernetes lets applications scale easily based on demand. It automatically adjusts the number of running containers to match the current load, making sure resources are used efficiently.
     
@@ -33,9 +33,9 @@ Kubernetes, or K8s, is an open-source platform that automates the deployment, sc
 6. **Multi-Cloud and Hybrid Deployments**: Kubernetes offers a consistent platform across different environments, including on-premises, public, and private clouds, supporting multi-cloud and hybrid cloud strategies.
     
 
-## Explain the architecture of Kubernetes.
+## Explain the architecture of Kubernetes.⚙️
 
-### **Kubernetes Architecture**
+### **Kubernetes Architecture**🛠️
 
 ![](https://cdn.hashnode.com/res/hashnode/image/upload/v1725385938744/661910ec-0bf1-4725-8c6d-39de8de5924f.png align="center")
 
@@ -50,11 +50,11 @@ Understanding the architecture of Kubernetes is key to using it well. The archit
 * **Worker Nodes**: Also known as worker machines, nodes are where the containerized applications run. Each node has a **<mark>Kubelet</mark>** (an agent that talks to the control plane), **<mark>a container runtime or pod</mark>** (like Docker), and a **<mark>kube-proxy or service proxy</mark>** (which manages network rules and enables communication).
     
 
-## What is a Control Plane?
+## What is a Control Plane?🕹️
 
 The control plane keeps the cluster in the desired state, managing which applications run and which container images they use. It makes decisions for the whole cluster, like scheduling, and reacts to events in the cluster, such as starting a new pod if the number of replicas is too low.
 
-## Control Plane Components(Master Node)
+## Control Plane Components(Master Node)☢️
 
 **<mark>API Server</mark>:** This is the "front desk" of Kubernetes. Whenever we want to interact with our cluster, our request goes through the API Server. It checks and processes these requests to the backend components.
 
@@ -66,17 +66,17 @@ The control plane keeps the cluster in the desired state, managing which applica
 
 **<mark>Cloud Controller Manager: </mark>** This is a specialized component that allows Kubernetes to interact with the underlying cloud provider, like AWS or Azure, helping with tasks such as setting up load balancers and persistent storage.
 
-## Write the difference between kubectl and kubelets.
+## Write the difference between kubectl and kubelets.👨🏻‍💻
 
 * **<mark>kubectl</mark>**: This is the command-line tool for interacting with the Kubernetes API server. It allows users to deploy applications, inspect and manage cluster resources, and view logs.
     
 * **<mark>Kubelet</mark>**: This is an agent that runs on each node in the Kubernetes cluster. It ensures that containers are running in a pod. Kubelet gets instructions from the control plane to ensure the containers are running as expected.
     
 
-## Role of the API Server
+## Role of the API Server🛡️
 
 The API server is a key component of the Kubernetes control plane, exposing the Kubernetes API, which serves as the front end for the control plane. It handles requests from users, tools, and components, providing the means to manage all resources in the cluster. The API server processes REST operations, validates them, and updates the corresponding objects in etcd, enabling other components to interact with the data.
 
-## Conclusion
+## Conclusion💡
 
 Kubernetes has changed how we deploy, scale, and manage applications. Its strong architecture and features like self-healing, scalability, and automated rollouts make it essential for DevOps. Knowing its architecture and components like the control plane, kubectl, kubelets, and the API server is key to using it effectively.
